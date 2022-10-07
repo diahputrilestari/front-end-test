@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "title": "Sebuah Seni untuk Bersikap Bodo Amat",
+      "genre": "Self-development",
+      "isbn": "978-0-321-76753-0",
+      "summary": "Sebuah Seni untuk Bersikap Bodo Amat adalah buku pertama karya Mark Manson, seorang narablog kenamaan dengan lebih dari 2 juta pembaca. Ia tinggal di kota New York. Wikipedia\nTerbitan Pertama: 13 September 2016\nPengarang: Mark Manson\nGenre: Buku bantuan diri\nBahasa asli: Inggris\nPenerbit: Grasindo\nHalaman: 246\nBahasa: Indonesia"
+    },
+    {
+      "title": "Filosofi Teras",
+      "genre": "self-development",
+      "isbn": "978-1-491-92156-2",
+      "summary": "Filosofi Teras adalah sebuah buku pengantar filsafat Stoa yang dibuat khusus sebagai panduan moral anak muda. Buku ini ditulis untuk menjawab permasalahan tentang tingkat kekhawatiran yang cukup tinggi dalam skala nasional, terutama yang dialami oleh anak muda. Wikipedia\nTerbitan Pertama: 26 November 2018\nPengarang: Henry Manampiring\nHalaman: 346\nPenerbit: Kompas\nBahasa: Bahasa Indonesia\n"
+    },
+    {
+      "title": "atomic habit",
+      "genre": "self development",
+      "isbn": "1782837388493",
+      "summary": "this  is summary"
+    },
+    {
+      "title": "Buku kambing jantan",
+      "genre": "comedy",
+      "isbn": "1234567891234",
+      "summary": "penulis : Raditya dika\ntanggal terbit: \nKambing Jantan: Sebuah Catatan Harian Pelajar Bodoh adalah buku karya Raditya Dika yang diterbitkan pada tahun 2005. Buku ini berkonsep buku harian dan berisi 235 halaman"
+    },
+    {
+      "title": "Grit: Kekuatan Passion + Kegigihan",
+      "genre": "self-development",
+      "isbn": "1212234532356",
+      "summary": "Grit: Kekuatan Passion + Kegigihan merupakan buku karya Angela Duckworth yang terbit pertama kali pada tahun 2017 oleh Penguin Random House. Wikipedia\nTerbitan Pertama: 3 Mei 2016\nPengarang: Angela Duckworth\nGenre: Buku bantuan diri\nBahasa asli: Inggris\nAdaptasi: Grit: The Power of Passion and Perseverance Young Readers Edition\nBahasa: Indonesia\nHalaman: 418"
+    }
+  ]
+}
